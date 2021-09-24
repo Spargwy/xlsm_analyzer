@@ -1,4 +1,4 @@
-##Excel analyzer
+# Excel analyzer
 
 This script analyze xlsm format file and write data from sheets 
 to sqlite database with hardcoded tables(yet)
